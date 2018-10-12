@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1539307464 source:d:\sophia cuccú~\tec. sup en programacion\programación y laboratorio i\parcialestacionamiento\automovil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"automovil.h"
+
+1539308635 source:d:\sophia cuccú~\tec. sup en programacion\programación y laboratorio i\parcialestacionamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"egreso.h"
+
+1539307442 d:\sophia cuccú~\tec. sup en programacion\programación y laboratorio i\parcialestacionamiento\automovil.h
+	"propietario.h"
+
+1539309788 d:\sophia cuccú~\tec. sup en programacion\programación y laboratorio i\parcialestacionamiento\propietario.h
+
+1539308867 source:d:\sophia cuccú~\tec. sup en programacion\programación y laboratorio i\parcialestacionamiento\egreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"egreso.h"
+
+1539308635 d:\sophia cuccú~\tec. sup en programacion\programación y laboratorio i\parcialestacionamiento\egreso.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"automovil.h"
+
+1539307442 source:d:\sophia cuccú~\tec. sup en programacion\programación y laboratorio i\parcialestacionamiento\propietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"propietario.h"
+
